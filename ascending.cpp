@@ -8,7 +8,7 @@ int main(){
     cout<<"Enter values :\n";
     for(int i=0;i<n;i++)
     {
-        cin>>a[n];
+        cin>>a[i];
     }
     for(int i=0;i<n;i++)
     {
